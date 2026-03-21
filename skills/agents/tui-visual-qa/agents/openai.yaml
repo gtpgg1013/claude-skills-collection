@@ -1,0 +1,4 @@
+interface:
+  display_name: "TUI Visual QA"
+  short_description: "Script and inspect terminal UI states"
+  default_prompt: "Use $tui-visual-qa to drive a TUI, capture screenshots, and report visual or interaction issues."
